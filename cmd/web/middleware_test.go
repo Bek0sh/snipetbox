@@ -2,7 +2,7 @@ package main
 
 import (
 	"bytes"
-	"github.com/highxshell/snippetbox/internal/assert"
+	"github.com/Bek0sh/snippetbox/internal/assert"
 	"io"
 	"net/http"
 	"net/http/httptest"

@@ -1,7 +1,7 @@
 package mocks
 
 import (
-	"github.com/highxshell/snippetbox/internal/models"
+	"github.com/Bek0sh/snippetbox/internal/models"
 	"time"
 )
 

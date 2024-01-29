@@ -2,9 +2,9 @@ package main
 
 import (
 	"bytes"
+	"github.com/Bek0sh/snippetbox/internal/models/mocks"
 	"github.com/alexedwards/scs/v2"
 	"github.com/go-playground/form/v4"
-	"github.com/highxshell/snippetbox/internal/models/mocks"
 	"html"
 	"io"
 	"log/slog"

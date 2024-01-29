@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/highxshell/snippetbox/internal/models"
-	"github.com/highxshell/snippetbox/ui"
+	"github.com/Bek0sh/snippetbox/internal/models"
+	"github.com/Bek0sh/snippetbox/ui"
 	"io/fs"
 	"path/filepath"
 	"text/template"

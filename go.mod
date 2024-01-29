@@ -1,4 +1,4 @@
-module github.com/highxshell/snippetbox
+module github.com/Bek0sh/snippetbox
 
 go 1.21.5
 

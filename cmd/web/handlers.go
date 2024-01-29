@@ -3,8 +3,8 @@ package main
 import (
 	"errors"
 	"fmt"
-	"github.com/highxshell/snippetbox/internal/models"
-	"github.com/highxshell/snippetbox/internal/validator"
+	"github.com/Bek0sh/snippetbox/internal/models"
+	"github.com/Bek0sh/snippetbox/internal/validator"
 	"github.com/julienschmidt/httprouter"
 	"net/http"
 	"strconv"

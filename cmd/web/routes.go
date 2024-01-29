@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/highxshell/snippetbox/ui"
+	"github.com/Bek0sh/snippetbox/ui"
 	"github.com/julienschmidt/httprouter"
 	"github.com/justinas/alice"
 	"net/http"
